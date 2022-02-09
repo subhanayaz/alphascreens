@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="30mm" height="30mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3000 3000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:105.83;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:246.94;stroke-miterlimit:22.9256}
+    .fil6 {fill:none}
+    .fil5 {fill:blue}
+    .fil3 {fill:#003399}
+    .fil2 {fill:#009933}
+    .fil4 {fill:#33CC33}
+    .fil1 {fill:red}
+    .fil0 {fill:#FF0066}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="168.17,777.58 1513.14,1486.66 168.17,2195.76 "/>
+  <polygon class="fil1" points="2858.11,777.58 1513.14,1486.66 2858.11,2195.76 "/>
+  <polygon class="fil2" points="2858.11,2195.76 1513.14,2904.83 1513.14,1486.66 "/>
+  <polygon class="fil3" points="1513.14,68.49 1513.14,1486.66 2858.11,777.58 "/>
+  <polygon class="fil4" points="168.17,777.58 1513.14,1486.66 1513.14,68.49 "/>
+  <polygon class="fil5" points="168.17,2195.76 1513.14,1486.66 1513.14,2904.83 "/>
+  <polygon class="fil6 str0" points="1513.14,68.49 2185.62,423.03 2858.11,777.57 2858.11,1486.67 2858.11,2195.76 2185.62,2550.3 1513.14,2904.84 840.65,2550.3 168.17,2195.76 168.17,1486.67 168.17,777.57 840.65,423.03 "/>
+  <polyline class="fil6 str1" points="579.86,1178.48 579.28,998.97 1267.7,637.25 1267.7,2325.12 581.46,1970.94 581.53,1633.82 1248.3,1282.97 "/>
+  <polyline class="fil6 str1" points="2454.83,1205.48 2454.39,1003.78 1743.8,635.11 1745.57,1319.44 2449.87,1671.31 2451.12,1968.37 1742.61,2328.55 1739.68,1962.95 "/>
+ </g>
+</svg>
